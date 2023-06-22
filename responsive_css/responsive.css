@@ -1,0 +1,386 @@
+@media (max-width:1024px){
+    .banner p {
+        margin: 0 200px;
+    }
+    .shape-left img {
+        top: 40%;
+    }
+    .shape-right img {
+        top: 50%;
+    }
+    .work-item h3 {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 500;
+    }
+    .business-icon-text h3 {
+        margin-bottom: 10px;
+    }
+    .work-item h3 {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 500;
+    }
+    .jackpot-left-part p {
+        line-height: 35px;
+    }
+    .work-item h3 {
+        font-size: 20px;
+        color: #fff;
+        font-weight: 500;
+    }
+    .work-item {
+        padding: 12px;
+    }
+    .arrow img {
+        left: 109px;
+        top: 30px;
+        width: 63%;
+    }
+    .testimonial-item {
+        padding: 30px 12px;
+        margin: 0 3px;
+    }
+    .testimonial-person-text h4 {
+        line-height: 28px;
+    }
+    .newsletter-button {
+        right: 230px;
+    }
+    .contact-item {
+        margin: 0 20px;
+    }
+}
+
+
+@media (max-width:992px){
+    .banner h1 {
+        font-size: 50px;
+    }
+    .banner {
+        padding-top: 100px;
+    }
+    .banner p {
+        margin: 0 180px;
+    }
+    .shape-right img {
+        width: 35%;
+    }
+    .shape-left img {
+        width: 35%;
+    }
+    .business-text h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .business-right {
+        padding-left: 30px;
+    }
+    .business-icon-1 {
+        margin: 30px 10px;
+    }
+    .business-icon-text h3 {
+        font-size: 16px;
+    }
+    .business-icon-text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .jackpot-left-part h1 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .jackpot-left-part p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .work-item h3 {
+        font-size: 17px;
+    }
+    .work-item p {
+        font-size: 14px;
+    }
+    .newsletter-button {
+        right: 210px;
+    }
+    .newsletter p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width:768px){
+    #menu-btn{
+        display: inline;
+    }
+    .header .navbar{
+        text-align: center;
+        display: block;
+        position: absolute;
+        top: 99%;
+        left: 0;
+        right: 0;
+        background-color: #222;
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+        z-index: 10000;
+    }
+    .header .navbar.active{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .header .navbar a{ 
+        font-size: 16px;
+        color: #fff;
+        margin: 3rem;
+    }
+    .header .navbar a:hover{
+        color: #EA3A60;
+    }
+    .banner h1 {
+        font-size: 45px;
+    }
+    .banner p {
+        margin: 0 50px;
+    }
+    .shape-left img {
+        width: 40%;
+    }
+    .feature {
+        padding-top: 70px;
+    }
+    .feature-product-item {
+        padding: 20px 20px;
+    }
+    .feature-product-item p {
+        padding-top: 20px;
+    }
+    .business-goal {
+        padding-top: 80px;
+    }
+    .business-image img {
+        width: 80%;
+    }
+    .quality-feature {
+        padding-top: 80px;
+    }
+    .quality-feature-text p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .jackpot {
+        padding-top: 80px;
+    }
+    .jackpot-left-part {
+        margin: 20px 0px;
+    }
+    .jackpot-left-part h1 {
+        font-size: 40px;
+        line-height: 50px;
+        padding: 15px 0;
+    }
+    .jackpot-left-part p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .pattern img {
+        display: none;
+    }
+    .work-heading {
+        padding-bottom: 40px;
+    }
+    .work-item h3 {
+        font-size: 16px;
+    }
+    .work-item p {
+        font-size: 13px;
+    }
+    .arrow img {
+        display: none;
+    }
+    .pricing {
+        padding-top: 80px;
+    }
+    .team {
+        padding-top: 80px;
+    }
+    .team-member {
+        text-align: center;
+        position: relative;
+        margin-top: 40px;
+        padding: 20px;
+    }
+    .team-member .member-name {
+        font-size: 18px;
+    }
+    .team-member .member-title {
+        font-size: 14px;
+    }
+    .testimonial-item {
+        padding: 30px;
+        margin: 10px;
+    }
+    .testimonial {
+        padding-top: 80px;
+    }
+    .testimonial-heading {
+        padding-bottom: 40px;
+    }
+    .slick-prev_header i,
+    .slick-prev_blog i{
+        left: 43%;
+    }
+    .blog {
+        padding-top: 80px;
+    }
+    .blog-item-text h3 {
+        font-size: 17px;
+        line-height: 25px;
+        padding-bottom: 15px;
+    }
+    .newsletter-button {
+        right: 100px;
+    }
+    .contact {
+        padding-top: 80px;
+    }
+    .contact-item {
+        margin: 0 10px;
+        padding: 15px;
+    }
+    .contact-item h4 {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 12px 0;
+    }
+    .contact-item p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .footer {
+        margin-top: 80px;
+        padding: 30px 0;
+    }
+}
+@media(max-width:360px){
+    .header .others a{
+        display: none;
+    }
+    .banner {
+        padding-top: 70px;
+    }
+    .banner h1 {
+        font-size: 33px;
+    }
+    .banner p {
+        margin: 0 20px;
+    }
+    .big-image img {
+        width: 85%;
+    }
+    .shape-left img {
+        top: 70%;
+    }
+    .shape-right img {
+        top: 55%;
+    }
+    .business-image img {
+        width: 90%;
+    }
+    .business-text h1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .business-right {
+        padding-left: 20px;
+    }
+    .quality-feature-heading h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .quality-feature-item {
+        margin: 10px 0;
+    }
+    .jackpot-left-part {
+        margin: 20px;
+    }
+    .jackpot-image img {
+        padding: 0 10px;
+        padding-right: 25px;
+    }
+    .pricing-heading h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .package-plan {
+        margin-bottom: 30px;
+    }
+    .team-heading h3 {
+        font-size: 23px;
+    }
+    .team-member {
+        margin-top: 30px;
+        padding: 15px;
+    }
+    .testimonial-heading h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .slick-prev_header i {
+        left: 40%;
+        font-size: 22px;
+    }
+    .slick-next_header i {
+        font-size: 22px;
+    }
+    .slick-prev_blog i{
+        left: 40%;
+        font-size: 22px;
+    }
+    .slick-next_blog i{
+        font-size: 22px;
+    }
+    .blog-heading h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .blog-item {
+        margin: 10px;
+    }
+    .newsletter h3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .newsletter p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .newsletter {
+        padding: 80px 20px;
+    }
+    .newsletter form input {
+        width: 320px;
+        padding: 0 20px;
+    }
+    .newsletter form input::placeholder{
+        font-size: 14px;
+    }
+    .newsletter-button button {
+        padding: 10px 20px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .newsletter-button {
+        right: 28px;
+        bottom: 90px;
+    }
+    .contact-item {
+        margin: 10px;
+        padding: 15px;
+    }
+    .quality-feature-item {
+        padding: 0 5px;
+    }
+    .work-heading h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
